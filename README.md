@@ -1,5 +1,5 @@
-## Gonzalo Pozzo portfolio
+## Emiliano Donato portfolio
 
 Portfolio hecho con `styled-components`, `tachyons` y `React`.
 
-demo: https://goncy.github.io/portfolio/
+demo: https://donatoe86.github.io/portfolio/
